@@ -2,6 +2,7 @@
   "name": "myfirstproject",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://tzuridis.github.io/React-Chat-App/",
   "dependencies": {
     "@pusher/chatkit": "^0.7.17",
     "react": "^16.5.2",
